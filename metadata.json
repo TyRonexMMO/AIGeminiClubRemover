@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Watermark Remover",
+  "description": "A powerful, client-side tool to remove watermarks from Gemini AI-generated images using advanced alpha mask subtraction techniques.",
+  "requestFramePermissions": []
+}
